@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="batchnorm-lstm-zyx",
+    name="batchnorm-lstm",
     version="0.0.1",
     author="Zyx Masic",
     author_email="zyx.masic@gmail.com",
